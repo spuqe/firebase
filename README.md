@@ -24,5 +24,5 @@ usage: scraper.py -h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
                [-out OUTPUT]
 wgen.py -h, --help            show this help message with all commands.
 
-for example python3 wgen.py -chr=abc -min=1 -max=4 -out=output/wordlist.txt
+for example python3 scraper.py -chr=abc -min=1 -max=4 -out=output/wordlist.txt
 
