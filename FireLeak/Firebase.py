@@ -1,12 +1,13 @@
 import requests
-print('Have fun')
 
-# Btw i fucking hate python but i wanted to try what i could create with it :) so be fucking thankful for that! 
+# --------------------------------------------------------------#
+# - Finally this is where the script starts at.  				#
+# - Trust me... It tooks ages to write all that bull shit!      #
+# --------------------------------------------------------------#
 
-# ---------------------------------------------------------------
-# - Finally this is where the script starts at.  				-
-# - Trust me... It tooks ages to write all that bull shit!      -
-# ---------------------------------------------------------------
+print('If you dont have a word list yet you can create one by going to WLS folder and starting scraper.py or ofc you can create your own one wich is the most powerful method. ')
+print('https://twitter.com/T0rCry')
+print('Now just let the script load everythin. It will close its self when its done!')
 
 
 # minimum amount of characters a database should have
