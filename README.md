@@ -20,7 +20,7 @@ or it will not work!
 # How to use WSL?
 WSL is a word list generator
 
-usage: wgen.py [-h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
+usage: scraper.py -h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
                [-out OUTPUT]
 wgen.py -h, --help            show this help message with all commands.
 
