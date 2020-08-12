@@ -28,3 +28,9 @@ wgen.py -h, --help            show this help message with all commands.
 
 for example python3 scraper.py -chr=abc -min=1 -max=4 -out=output/wordlist.txt
 
+
+
+
+
+
+Last updated: 12.8.2020
