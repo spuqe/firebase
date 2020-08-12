@@ -1,8 +1,8 @@
 # firebase
 Firebase database finder. 
 
-# How to use?
-
+# How to use? Firebase.py
+Define wich worldlist you want to use (you can define it at the source or line 17)
 Just run the script after adding words to wordlist.txt
 Add the words like this
 1
@@ -10,6 +10,15 @@ Add the words like this
 3
 4
 or it will not work!
+
+# How to use WSL?
+WSL is a word list generator
+
+usage: wgen.py [-h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
+               [-out OUTPUT]
+wgen.py -h, --help            show this help message with all commands.
+
+for example python3 wgen.py -chr=abc -min=1 -max=4 -out=output/wordlist.txt
 
 # What the fuq is this? 
 basicly just Firebase database finder.
