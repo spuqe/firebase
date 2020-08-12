@@ -17,6 +17,8 @@ Add the words like this
 4
 or it will not work!
 
+When the database is founded you can see the name at /database/ and type the database name to your url bar like this: https://databasename.firebaseio.com/.json
+
 # How to use WSL?
 WSL is a word list generator
 
