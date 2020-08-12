@@ -1,5 +1,5 @@
 # firebase
-Firebase database finder. 
+Firebase database finder + wordlist generator
 
 # What the is this? 
 basicly just Firebase database finder.
