@@ -1,6 +1,4 @@
 import requests
-
-print('If you dont have a word list yet you can create one by going to WLS folder and starting scraper.py or ofc you can create your own one wich is the most powerful method. ')
 print('https://twitter.com/T0rCry')
 print('Now just let the script load everythin. It will close its self when its done!')
 
