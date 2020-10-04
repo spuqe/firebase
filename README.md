@@ -1,3 +1,7 @@
+# First of all!
+Google has tried to patch this. Sadly it just made the finder weaker. You can still find databases easily using this but you wont get so much results as before the patch!
+
+
 # firebase
 Firebase database finder + wordlist generator
 Demo: https://youtu.be/YsaPEnOPe7k
