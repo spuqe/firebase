@@ -1,3 +1,4 @@
+Simple script made to find Firebase databases that are open.
 # First of all!
 Google has tried to patch this. Sadly it just made the finder weaker. You can still find databases easily using this but you wont get so much results as before the patch!
 
